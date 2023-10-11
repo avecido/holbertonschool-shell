@@ -1,2 +1,1 @@
-# holbertonschool-shell
-Everything about shell
+Basics of shell
